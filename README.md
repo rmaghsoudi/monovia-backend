@@ -1,24 +1,23 @@
-# README
+# Monovia
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+   Welcome to Monovia! This monopoly-esque trivia game was designed to ensure you have a great time playing and maybe learn
+  a thing or two along the way! This app was created with a custom Ruby on Rails API backend, vanilla Javascript, jQuery, 
+  HTML5 and CSS3 on the frontend. The questions are sourced from an external trivia API.
 
-Things you may want to cover:
+  Designed by: Romy Maghsoudi and Kesha "Rose" Lake
 
-* Ruby version
+# Playing the game
 
-* System dependencies
+  Just enter your name into the field and you'll be able to start playing instantly! Selecte a subject, then you'll be able to
+click on the die to roll for each turn. Questions are in True/False format, answering correctly will add 100$ to your wallet.
+There's no penalty(except maybe your ego) for getting questions wrong, however, on double or nothing spaces you will lose all
+of your money if answered incorrectly. The go to jail space will simply send you backwards to the jail space on the board.
 
-* Configuration
 
-* Database creation
+  # Properties
+  
+  If you have enough money, a button will show up below your name that'll allow you to purchase the property. An emoji should 
+populate the properties you've purchased.
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## The app is currently deployed at https://monovia-frontend.firebaseapp.com/
